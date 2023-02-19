@@ -1,0 +1,50 @@
+*{
+    
+font-family: 'Dancing Script', cursive;
+font-family: 'Merriweather', serif;
+}
+
+.carousel-item img{
+width: 100%;
+height: 80vh;
+}
+.carousel-item h3{
+    font-weight: 600;
+    font-size: 60px;
+    
+}
+.mybtn{
+letter-spacing: 1px;
+padding: 2px;
+margin-top: 2rem;
+}
+
+.carousel-caption{
+    left: 50%;
+    top: 50%;
+transform: translate(-50%,-50%);
+}
+.mytext{
+    margin-top: 12rem;
+}
+.mybutton{
+    margin-top: 12rem;
+}
+.mylogo {
+    /* padding-left: 15rem; */
+    padding-top: 5rem;
+}
+.mylogo h4{
+    padding-top: 20rem;
+    margin-bottom: 5rem;
+    letter-spacing: 3px;
+} 
+
+.myimg{
+    margin-top: 5rem;
+    max-height: 35vh;
+}
+.sndimg{
+    max-height: 40vh;
+    margin-top: 5rem;
+}
